@@ -103,7 +103,7 @@ streamlit run student_performance_app.py
 
 🚀 Access the live dashboard here:
 
-👉 [Student Performance Predictor Dashboard](https://your-streamlit-link.streamlit.app)
+👉 [Student Performance Predictor Dashboard](https://edusenseperformancepredictor.streamlit.app)
 
 
 ---
